@@ -73,9 +73,8 @@ Atualmente trabalho com:
     height="180"
   />
 </p>
-
+---
 [![GitHub Streak](https://github-readme-streak-stats-clone.vercel.app?user=diozefe&theme=dracula&border_radius=8&border=4A00BE&background=45%2C470075%2C190053)](https://git.io/streak-stats)
-
 
 ---
 
