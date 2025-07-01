@@ -1,4 +1,6 @@
-<h1 align="center">👋 Olá, eu sou o Diozefe Morais - Dr Zê</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=400&color=FF5555&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Diozefe;Dr+Z%C3%AA!)](https://git.io/typing-svg)
+
+---
 
 <p align="center">
   <strong>Bacharelado em Engenharia de Computação</strong><br>
@@ -65,16 +67,18 @@ Atualmente trabalho com:
 
 <p align="center">
   <img 
-    src="https://diozefe-github-readme-stats-gamma.vercel.app/api?username=diozefe&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false"
+    src="https://diozefe-github-readme-stats.vercel.app/api?username=diozefe&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=false"
     height="180"
   />
   <img 
-    src="https://diozefe-github-readme-stats-gamma.vercel.app/api/top-langs/?username=diozefe&layout=compact&theme=dracula&hide_border=false&langs_count=10"
+    src="https://diozefe-github-readme-stats.vercel.app/api/top-langs/?username=diozefe&layout=compact&theme=dracula&hide_border=false&langs_count=10"
     height="180"
   />
 </p>
----
-[![GitHub Streak](https://github-readme-streak-stats-clone.vercel.app?user=diozefe&theme=dracula&border_radius=8&border=4A00BE&background=45%2C470075%2C190053)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-clone.vercel.app?user=diozefe&theme=radical" alt="GitHub Streak" /></a>
+</p>
 
 ---
 
