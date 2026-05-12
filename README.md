@@ -11,16 +11,15 @@
 
 ### 🧪 Sobre mim
 
-Apaixonado por ciência, me formei em engenharia de computação e agora uso a internet e meu computador como laboratório.  
-Já aprendi de tudo um pouco — não por indecisão, mas para entender de perto como a tecnologia resolve problemas reais.  
+Atuação consistente com Node.js, TypeScript, Spring Boot e Angular em ambientes corporativos, incluindo APIs REST, gRPC, microsserviços, mensageria, observabilidade, testes automatizados, integrações com cloud e atuação em produção.
+Capacidade de atuar desde a infraestrutura até a camada de interface, com vivência em deploy, configuração de ambientes, firewall, gateway, API Gateway, bancos de dados, mensageria, sincronização offline/online e operação de serviços em produção.
 
-Atualmente me especializando em **C#**, com o objetivo de trabalhar internacionalmente, unindo curiosidade, lógica e tecnologia.
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-Sou um engenheiro de verdade: gosto de resolver problemas. Para isso, uso o que cada tecnologia pode me oferecer de melhor.  
+Sou um engenheiro pragmático: gosto de resolver problemas. Para isso, uso o que cada tecnologia pode me oferecer de melhor.  
 Atualmente trabalho com:
 
 #### 👨‍💻 Principais stacks
@@ -32,10 +31,20 @@ Atualmente trabalho com:
 #### 🧠 Linguagens e frameworks
 
 ![CSharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white&link=https%3A%2F%2Fgo.dev%2F)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.JS](https://img.shields.io/badge/Node.JS-Green?style=for-the-badge&logo=nodedotjs&logoColor=white&link=https%3A%2F%2Fnodejs.org%2Fpt-br)
+
+#### 🗃️ Databases e Cache
+
+![Mysql](https://img.shields.io/badge/Mysql-white?style=for-the-badge&logo=mysql&logoColor=blue&link=https%3A%2F%2Fwww.mysql.com%2F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&link=https%3A%2F%2Fwww.postgresql.org%2F)
+![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1C81A0?style=for-the-badge&logo=apachecassandra&logoColor=white&link=https%3A%2F%2Fcassandra.apache.org%2F_%2Findex.html)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white&link=https%3A%2F%2Fredis.io%2F)
+![Mongo DB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&link=https%3A%2F%2Fwww.mongodb.com%2F)
 
 #### ☁️ Cloud e DevOps
 
@@ -57,8 +66,15 @@ Atualmente trabalho com:
 ### 🧩 Projeto em Destaque
 
 🔗 [**Amazonas Peixaria**](https://www.amazonaspeixaria.com.br/)  
-> Um portal moderno, desenvolvido em Angular 19 com kit Firebase e GitHub Actions.  
-> Conta com um CMS simples para facilitar alterações no conteúdo, mesmo sem conhecimento técnico, sem a necessidade de pull requests.  
+> Projeto criado do zero para atender autenticidade e identidade própria do restaurante, evitando o custo e a manutenção de soluções genéricas como WordPress.
+> - A primeira entrega foi um cardápio com a
+> cara da marca, guiando o profissional de UX/UI para alcançar a expectativa do cliente.
+> Arquitetura desenvolvida para operação com foco em custo mínimo e alta autonomia do cliente.
+> Uso de Angular 18, Firestore/Firebase e deploy via Git na Hostinger, mantendo a operação praticamente restrita ao custo de hospedagem e domínio.
+> Estruturação de CMS simples para edição de conteúdo sem depender de código.
+> - Evolução do projeto para um ecossistema mais complexo, com infraestrutura local e cloud, sincronização com API central e suporte a operação offline.
+> Foco em idempotência, cardápio personalizado, PDV completo, estoque inteligente e cozinha inteligente.
+> Treinamento do time que irá operar a solução, garantindo qualidade no uso do sistema.
 > Estou sempre melhorando algo por lá! 🍽️🐟
 
 ---
